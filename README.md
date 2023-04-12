@@ -20,5 +20,4 @@ files cont_40, cont_80, nocont_40, nocont_80 contain results for when the true p
  "nocont" is used for the non contaminated scenario, "cont" is used for the contaminated scenario.
  "40" and "80" are used to indicate the total sample size
 
-### Tutorial based on the a real data example in section 4.2 
-(soon)
+ 
